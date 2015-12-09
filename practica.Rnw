@@ -1,0 +1,47 @@
+\author{\\\\ Jefferson Ubaldo Vera Orozco \\\\ ECINF7434 \\\\ \texttt{fefy11.jefuvo@gmail.com}}
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+\textbf{1. ¿Es aplicable la ingeniería de software cuando se elaboran webapps?."}
+
+print("Si es aplicacble")
+
+
+@
+
+\textbf{2. ¿cómo puede modificarse para que asimile las características únicas de éstas?.} 
+
+
+print("Se puede modificar mediante Twitter Facebook Instagram. Las webapps presenta caracteristicas\\La función principal de muchas webapp es el uso de hipermedios para presentar al usuario final contenido en forma de texto gráficas audio y video.\\ Además, las webapps se utilizan en forma común para acceder a información que existe en bases de datos que no son parte integral del ambiente basado en web por ejemplo comercio electrónico o aplicaciones financieras")
+
+
+@
+
+\textbf{3. Un breve descripción del dataset Titanic.}
+
+
+
+@
+
+\textbf{numeros de casos.}
+
+X               Class         Sex        Age     Survived      Freq       
+ Min.   : 1.00   1st :8   Female:16   Adult:16   No :16   Min.   :  0.00  
+ 1st Qu.: 8.75   2nd :8   Male  :16   Child:16   Yes:16   1st Qu.:  0.75  
+ Median :16.50   3rd :8                                   Median : 13.50  
+ Mean   :16.50   Crew:8                                   Mean   : 68.78  
+ 3rd Qu.:24.25                                            3rd Qu.: 77.00  
+ Max.   :32.00                                            Max.   :670.00  
+> 
+
+
+
+
+@
+
+
+\end{document}
